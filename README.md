@@ -6,6 +6,10 @@ The goal of this project was to gain more experience in front-end development an
 Built and deployed using npm and github pages, here is the link to the website: https://adambucholtz.github.io/Portfolio/
 (On my brother's account for his personal use)
 
+Install Instructions:
+1. Clone repo
+2. npm install
+3. npm install 'flowbite'
 
 Currently, two official plugins are available:
 
